@@ -2,11 +2,11 @@
 
 <div align="center">
 
-![Node Js](https://img.shields.io/badge/Node%20Js-14.15.4-green)
-![Inquirer](https://img.shields.io/badge/Inquirer-7.3.3-blue)
-![Jest](https://img.shields.io/badge/Jest-26.6.3-red)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-4.5.3-purple)
-![Font Awesome](https://img.shields.io/badge/Font%20Awesome-5.15.1-yellow)
+![Node Js](https://img.shields.io/badge/Node%20Js-16.17.0-green)
+![Inquirer](https://img.shields.io/badge/Inquirer-8.2.4-blue)
+![Jest](https://img.shields.io/badge/Jest-29.0.3-red)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-4.5.0-purple)
+![Font Awesome](https://img.shields.io/badge/Font%20Awesome-6.2.0-yellow)
 ![HTML](https://img.shields.io/badge/HTML-5-orange)
 
 </div>
